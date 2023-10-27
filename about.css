@@ -1,0 +1,26 @@
+p{
+    color: white !important;
+   }
+   
+   /*   */
+   
+   body{
+   
+       background-color: rgb(165, 119, 44);
+   
+   }
+   
+   #demo{
+   color:white;
+   text-align: center;
+   }
+   
+   p.center{
+       color:white;
+       text-align: center;
+   }
+   
+   h1,h2, p{
+       color:white;
+       text-align: center;
+   }
